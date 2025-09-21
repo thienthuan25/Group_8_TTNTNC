@@ -5,7 +5,7 @@
 Xin chào! Đây là các thông tin cá nhân của từng thành viên trong nhóm 8 và học phần môn Trí Tuệ Nhân Tạo Nâng Cao
 
 ### Thông tin cá nhân
-* Sinh Viên thứ nhất
+* Sinh Viên thứ nhất (Trưởng nhóm)
 
   * **Họ và tên**: Nguyễn Tiến Thọ
   * **Mã số sinh viên (MSSV)**: 3122410398
